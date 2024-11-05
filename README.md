@@ -1,4 +1,4 @@
-Check it out on GitHub and see it live here: [Live Link]
+Check it out on GitHub and see it live here: [ https://fairose-r.github.io/Codox_Task1_Todo-List/]
 
 After days of dedication and hard work, I’m thrilled to share my completed To-Do List Project for Task 1! This project involved multiple stages, from frontend design to implementing backend logic with CRUD operations and local storage to ensure data persistence.
 
